@@ -1511,11 +1511,11 @@ body {
   visibility: visible;
 }
 
-.sidebar-title {
+.sidebar-title a {
   color: rgba(255, 255, 255, 0.8);
 }
 
-.sidebar-title:hover {
+.sidebar-title a:hover {
   color: white;
 }
 

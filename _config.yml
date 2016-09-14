@@ -5,13 +5,13 @@ highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
+timezone:            Europe/Rome
+locale:              it_it
+name:				         'uBC Magazine'
+title:               'site title'
 tagline:             'tagline'
 description:         'description'
 url:                 site url

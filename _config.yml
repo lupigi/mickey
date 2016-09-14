@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 timezone:            Europe/Rome
 locale:              it_it
-name:				         'uBC Magazine'
+name:				       'uBC Magazine'
 title:               'site title'
 tagline:             'tagline'
 description:         'description'

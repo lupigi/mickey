@@ -45,7 +45,7 @@ port:             	 9001
 defaults:
   -
     scope:
-      path: "ubcmagazine/_posts"
+      path: "_posts"
       type: "posts"
     values:
       layout: "default"

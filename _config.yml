@@ -13,7 +13,7 @@ name:				         'uBC Magazine'
 title:               'site title'
 tagline:             'tagline'
 description:         'description'
-url:                 http://lupigi.github.io/ubcmagazine
+url:                 'http://lupigi.github.io/ubcmagazine'
 rss:                 rss feed url
 baseurl:             '/ubcmagazine/'
 baseurl_posts_img:   '/ubcmagazine/assets/images/posts/'
@@ -38,7 +38,7 @@ fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
 
 # Server
-destination:      	 ./_site
+destination:      	 ./ubcmagazine/_site
 exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
 port:             	 9001
 

@@ -23,19 +23,19 @@ baseurl_javascripts: '/ubcmagazine/assets/javascripts/'
 icon:                '/ubcmagazine/assets/img/icon.png' # [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
-author:
-  name:           	 your name
-  url:            	 your site url
-  facebook:          username
-  twitter:           username
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+#author:
+#  name:           	 your name
+#  url:            	 your site url
+#  facebook:          username
+#  twitter:           username
+#  google_plus:       username
+#  linkedin:          username
+#  dribbble:          username
+#  pinterest:         username
+#  kiva:              username
 
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
+#fb_admins:           your facebook profile id
+#fb_appid:            your facebook app id
 
 # Server
 destination:      	 ./_site

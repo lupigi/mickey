@@ -4,7 +4,7 @@ markdown:            redcarpet
 highlighter:         pygments
 
 # Permalinks
-permalink:           /ubcmagazine/:title
+permalink:           /:title
 relative_permalinks: false
 
 # Setup
@@ -14,7 +14,7 @@ name:				         'uBC Magazine'
 title:               'site title'
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 http://lupigi.github.io/ubcmagazine
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'

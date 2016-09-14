@@ -1511,6 +1511,10 @@ body {
   visibility: visible;
 }
 
+.sidebar-title {
+  color: white;
+}
+
 .postWrapper,
 .sidebar-toggle-wrapper {
   -webkit-transition: -webkit-transform 0.3s ease-in-out;

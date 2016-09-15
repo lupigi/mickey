@@ -7,7 +7,7 @@ excerpt: "quando una copertina scandisce le nostre vite"
 categories: articoli
 tags:  zagor
 image:
-  feature: 'collage cover storiche.jpg'
+  feature: 'numero000/collage cover storiche.jpg'
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker

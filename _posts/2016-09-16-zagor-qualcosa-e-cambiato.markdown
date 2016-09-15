@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Qualcosa è cambiato"
-date:   2016-09-15 01:00:00
-last_modified_at:  2016-09-15 01:00:00
+date:   2016-09-16 01:00:00
+last_modified_at:  2016-09-16 01:00:00
 excerpt: "quando una copertina scandisce le nostre vite"
 categories: articoli
 tags:  zagor

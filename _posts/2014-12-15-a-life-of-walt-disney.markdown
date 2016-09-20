@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A Life of Walt Disney"
+subtitle: "Pimpulo Pampulo Parimpamp&ugrave;m"
 date:   2014-12-15 01:00:00
 last_modified_at:  2014-12-15 01:00:00
 excerpt: "Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent..."

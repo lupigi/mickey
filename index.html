@@ -12,7 +12,7 @@ title: uBC Magazine
       <div class="postMeta-wrapper postMeta-wrapper--frontpage">
         <ul class="postMeta">
           <li class="postMeta-tagline">
-            dal 1996 ti guida attraverso i fumetti
+            <span style="color:red">u</span>nrequested <span style="color:red">B</span>abble about <span style="color:red">C</span>omics
           </li>
         </ul>
       </div>
@@ -39,6 +39,8 @@ title: uBC Magazine
                 </a>
                 {% endif %}
                 <a class="postArticle-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <br>
+                {{ post.subtitle }}
               </article>
               <div class="block-postMeta">{{ post.date | date_to_string }}</div>
             </div>

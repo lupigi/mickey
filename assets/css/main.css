@@ -563,6 +563,22 @@ body {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 }
 
+.imgLogo--frontpage {
+  position: absolute;
+  top: 132px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  z-index: 500;
+  margin: 0;
+  height: 150px;
+  background-size: 100%;
+  background-position: 0;
+  opacity: 0.9;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+}
+
 @media (max-width: 767px) {
   .textLogo--frontpage {
     width: 182px;

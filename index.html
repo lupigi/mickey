@@ -38,7 +38,8 @@ title: uBC Magazine
                 {% endif %}
                 <a class="postArticle-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                 <br>
-                <div class="postArticle-subtitle">{{ post.subtitle }}</div>
+                <div class="postArticle-subtitle">{{ post.subtitle }}<br>
+				di {{ post.author }}</div>
               </article>
               <div class="block-postMeta">{{ post.date | date_to_string }}</div>
             </div>

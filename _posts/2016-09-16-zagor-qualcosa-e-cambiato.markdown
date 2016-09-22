@@ -3,7 +3,8 @@ layout: post
 title:  "Qualcosa è cambiato"
 date:   2016-09-16 01:00:00
 last_modified_at:  2016-09-16 01:00:00
-excerpt: "quando una copertina scandisce le nostre vite"
+subtitle: "quando una copertina scandisce le nostre vite"
+author: "Cristian Di Clemente"
 categories: articoli
 tags:  zagor
 image:

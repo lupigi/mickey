@@ -37,11 +37,10 @@ title: uBC Magazine
                 </a>
                 {% endif %}
                 <a class="postArticle-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                <br>
-				<span class="postArticle-subtitle">{{ post.subtitle }}<br>
-				<em>di {{ post.author }}</em></span>
+				<div class="postArticle-subtitle">{{ post.subtitle }}<br>
+				</div>
               </article>
-              <div class="block-postMeta">{{ post.date | date_to_string }}</div>
+              <div class="block-postMeta"><em>di {{ post.author }}</em> ({{ post.date | date_to_string }})</div>
             </div>
           </li>
         {% endfor %}

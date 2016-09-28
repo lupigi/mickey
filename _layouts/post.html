@@ -24,15 +24,16 @@ layout: default
     <div class="section-title is-darkBackgrounded u-tableCell u-verticalAlignMiddle">
       <div class="container">
         <h2>{{ page.title }}</h2>
+		<h3>{{ page.subtitle }}</h3>
         <div class="postMeta-wrapper">
           <ul class="postMeta">
             <li class="postMeta-datetime">
               <time datetime="{{ page.date }}">
-                {{ page.date | date_to_string }}
+                {{ page.date | date: "%d/%m/%Y" }}
               </time>
             </li>
             <li class="postMeta-author">
-              By {{ site.author.name }}
+              di {{ page.author }}
             </li>
             <li class="postMeta-tags">
               {{ page.categories }}

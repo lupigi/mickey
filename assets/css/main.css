@@ -1973,7 +1973,7 @@ body {
 }
 
 .blockGroup-list li:nth-child(1).block .postArticle-title {
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .blockGroup-list li:nth-child(2).block,
@@ -2079,9 +2079,8 @@ body {
   position: absolute;
   bottom: 0;
   padding-bottom: 10px;
-  color: #ccc;
+  color: #bbb;
   font-size: 16px;
-  text-transform: uppercase;
 }
 
 .blockGroup-list .postArticle-title,

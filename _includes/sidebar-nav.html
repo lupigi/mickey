@@ -12,7 +12,7 @@
           </a>
         {% endif %}
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        <div class="postMeta">{{ post.date | date_to_string }}</div>
+        <div class="postMeta">{{ post.author }} - {{ post.date }}</div>
       </li>
       {% endif %}
     {% endfor %}

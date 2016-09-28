@@ -40,7 +40,7 @@ title: uBC Magazine
 				<div class="postArticle-subtitle">{{ post.subtitle }}<br>
 				</div>
               </article>
-              <div class="block-postMeta"><em>di {{ post.author }}</em> ({{ post.date | date_to_string }})</div>
+              <div class="block-postMeta"><em>di {{ post.author }}</em> ({{ post.date | date: "%-d/%-m/%Y" }})</div>
             </div>
           </li>
         {% endfor %}

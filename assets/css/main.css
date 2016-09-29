@@ -1662,13 +1662,13 @@ body {
 
 .section--first,
 .section-backgroundImage {
-  height: 28.5rem;
+  height: 15rem;
 }
 
 @media (max-width: 767px) {
   .section--first,
   .section-backgroundImage {
-    height: 21rem;
+    height: 18rem;
   }
 }
 

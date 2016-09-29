@@ -548,7 +548,7 @@ body {
 
 .textLogo--frontpage {
   position: absolute;
-  top: 132px;
+  top: 62px;
   left: 50%;
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
@@ -1662,13 +1662,13 @@ body {
 
 .section--first,
 .section-backgroundImage {
-  height: 15rem;
+  height: 28.5rem;
 }
 
 @media (max-width: 767px) {
   .section--first,
   .section-backgroundImage {
-    height: 18rem;
+    height: 21rem;
   }
 }
 

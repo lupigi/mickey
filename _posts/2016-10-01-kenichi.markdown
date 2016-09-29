@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Kenichi"
 date:   2016-10-01 01:00:02

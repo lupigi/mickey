@@ -2,7 +2,7 @@
 layout: post
 title:  "Life, the Universe and Everything (© Douglas Adams)"
 subtitle:	"'O Malamente – ricordando due occhi gentili"
-date:   2016-10-05 01:00:20
+date:   2016-10-05 01:00:06
 last_modified_at:  2016-09-29 01:00:00
 author: "Vincenzo Oliva"
 categories: articoli

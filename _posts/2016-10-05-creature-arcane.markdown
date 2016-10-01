@@ -55,11 +55,9 @@ Mizukami mostra insomma una scrittura poliforme e consistente, capace di gestire
 
 In questo il suo stile ricorda molto quello di un altro autore ancora molto amato in Italia, **Kazuhiro** ("**Ushio e Tora**") **Fushita**.
 
-<p align="center">
-
 ![Shakugan e il peso della colpa]({{ site.baseurl_posts_img }}numero000/creaturearcane02.jpg "Shakugan e il peso della colpa")
 
-<br><span class="didascalia">Shakugan e il peso della colpa</span></p>
+<br><span class="didascalia">Shakugan e il peso della colpa</span>
 
 Questa similitudine si esprime anche nel tratto grafico: a volere essere gentili, come avevamo già detto nel recensire Samidare, il tratto di Mizukami è "approssimativo". Rispetto al suo manga precedente, i miglioramenti sono assolutamente evidenti e commendabili: le anatomie dei personaggi sono più consistenti, gli scenari più "vivi" ed il tratteggio si è fatto più sicuro. Purtuttavia, paragonato con molti degli autori recensiti, il suo tratto resta "passabile".
 

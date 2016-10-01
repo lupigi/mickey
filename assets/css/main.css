@@ -2928,3 +2928,9 @@ body {
     display: none !important;
   }
 }
+
+.didascalia {
+	font-size: 0.8rem;
+	font-style: italic;
+	color: #bbbbbb;
+}

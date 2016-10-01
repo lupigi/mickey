@@ -430,7 +430,7 @@ hr {
 .img {
   margin-top: 1.5rem;
   background-repeat: no-repeat;
-  background-position: left center;
+  background-position: center center;
   background-size: cover;
 }
 

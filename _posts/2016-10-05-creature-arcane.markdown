@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creature arcane"
-date:   2016-10-01 01:00:01
+date:   2016-10-05 01:00:01
 last_modified_at:  2016-09-29 01:00:00
 author: "Luca Cerutti"
 categories: articoli
@@ -21,13 +21,15 @@ Entrambi si muovono nel Giappone dell'epoca dei disordini per portare la giustiz
 
 Sulla loro strada incontrano un umano abbastanza "tipico": **Shinsuke Kazamatsuri**, un falso samurai, debole e codardo come pochi. Disperatamente alla ricerca della forza.
 
-<p align="center"><img src="{{ site.baseurl_posts_img }}numero000/creaturearcane_cover.jpg" /></p>
+<p align="center">
+[Copertina]({{ site.baseurl_posts_img }}numero000/creaturearcane_cover.jpg)</p>
 
 Incontrano **Shakugan**, l'unione artificiale di una ragazza dalla forza spirituale, **Shakuyaku**, e **Kagan**, un Katawara di pietra. Disperatamente desiderosa di liberarsi di una forza genocida.
 
 Questa è una storia di esseri che odiano altri esseri, di esseri che amano altri esseri, di chi vuole diventare qualcosa d'altro, di chi desidera la forza e di chi non la voleva. È una storia in cui tutti soffrono e tutti ridono. È una storia in cui tutti cercano una verità e nel frattempo mentono persino a se stessi.
 
-<p align="center"><img src="{{ site.baseurl_posts_img }}numero000/creaturearcane01.jpg" /><br>
+<p align="center">
+[Tama e Jinka si presentano a Shinsuke]({{ site.baseurl_posts_img }}numero000/creaturearcane01.jpg)
 <span class="didascalia">Tama e Jinka si presentano a Shinsuke</span></p>
 
 Con una doppia uscita nel mese di settembre 2016, in diciassette volumi si chiude "**Creature Arcane**", manga di **Satoshi Mizukami** già noto al pubblico per "**Samidare**" e in pubblicazione sempre per **FlashBook** con "**Spirit Circle**".
@@ -48,7 +50,8 @@ Mizukami mostra insomma una scrittura poliforme e consistente, capace di gestire
 
 In questo il suo stile ricorda molto quello di un altro autore ancora molto amato in Italia, **Kazuhiro** ("**Ushio e Tora**") **Fushita**.
 
-<p align="center"><img src="{{ site.baseurl_posts_img }}numero000/creaturearcane02.jpg" /><br>
+<p align="center">
+[Shakugan e il peso della colpa]({{ site.baseurl_posts_img }}numero000/creaturearcane02.jpg)
 <span class="didascalia">Shakugan e il peso della colpa</span></p>
 
 Questa similitudine si esprime anche nel tratto grafico: a volere essere gentili, come avevamo già detto nel recensire Samidare, il tratto di Mizukami è "approssimativo". Rispetto al suo manga precedente, i miglioramenti sono assolutamente evidenti e commendabili: le anatomie dei personaggi sono più consistenti, gli scenari più "vivi" ed il tratteggio si è fatto più sicuro. Purtuttavia, paragonato con molti degli autori recensiti, il suo tratto resta "passabile".

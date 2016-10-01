@@ -23,7 +23,7 @@ Sulla loro strada incontrano un umano abbastanza "tipico": **Shinsuke Kazamatsur
 
 <p align="center">
 
-![Copertina]({{ site.baseurl_posts_img }}numero000/creaturearcane_cover.jpg)
+![Copertina]({{ site.baseurl_posts_img }}numero000/creaturearcane_cover.jpg "Copertina")
 
 </p>
 
@@ -33,7 +33,7 @@ Questa è una storia di esseri che odiano altri esseri, di esseri che amano altr
 
 <p align="center">
 
-![Tama e Jinka si presentano a Shinsuke]({{ site.baseurl_posts_img }}numero000/creaturearcane01.jpg)
+![Tama e Jinka si presentano a Shinsuke]({{ site.baseurl_posts_img }}numero000/creaturearcane01.jpg "Tama e Jinka si presentano a Shinsuke")
 
 <br><span class="didascalia">Tama e Jinka si presentano a Shinsuke</span></p>
 
@@ -57,7 +57,7 @@ In questo il suo stile ricorda molto quello di un altro autore ancora molto amat
 
 <p align="center">
 
-![Shakugan e il peso della colpa]({{ site.baseurl_posts_img }}numero000/creaturearcane02.jpg)
+![Shakugan e il peso della colpa]({{ site.baseurl_posts_img }}numero000/creaturearcane02.jpg "Shakugan e il peso della colpa")
 
 <br><span class="didascalia">Shakugan e il peso della colpa</span></p>
 

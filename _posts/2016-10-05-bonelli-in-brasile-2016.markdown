@@ -49,7 +49,7 @@ Alla fine, come succede anche in Italia, il personaggio bonelliano più venduto 
 
 - **Tex Edição Ouro**, bimestrale (albi con storie selezionate e complete).
 
-![I fumetti Bonelli in vendita sul sito della Mythos: Tex fa la parte del leone]({{ site.baseurl_posts_img }}numero000/texbr.jpg "I fumetti Bonelli in vendita sul sito della Mythos: Tex fa la parte del leone")
+![I fumetti Bonelli in vendita sul sito della Mythos: Tex fa la parte del leone]({{ site.baseurl_posts_img }}numero000/texbr.png "I fumetti Bonelli in vendita sul sito della Mythos: Tex fa la parte del leone")
 <br><span class="didascalia">I fumetti Bonelli in vendita sul sito della Mythos: Tex fa la parte del leone</span>
 
 Al di fuori della Mythos, praticamente il deserto. Il bonellide **Lazarus Ledd** è stato pubblicato dalla **Tutatis**, una piccola casa editrice, nel 2006: sei numeri della serie regolare italiana e un Numero Zero, poi più niente. Analogo scarso successo per **Volto Nascosto** (in Brasile, "**Face Oculta**"), che è stato pubblicato dalla **Panini Brasile** nel 2012: soltanto i primi due volumi della serie originale arrivarono nelle edicole, mentre nel settembre 2016 è uscito un albo di 384 pagine che raccoglie i numeri dall'1 al 4 della serie originale – ma non si sa ancora se gli appassionati brasiliani riusciranno a leggere gli altri dieci capitoli della miniserie di **Manfredi**…

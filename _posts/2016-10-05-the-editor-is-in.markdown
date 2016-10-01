@@ -8,7 +8,7 @@ author: "Martina Galea"
 categories: articoli
 tags:  bonelli
 image:
-  feature: 'numero000/lilith16.jpg'
+  feature: 'numero000/editor.jpg'
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker

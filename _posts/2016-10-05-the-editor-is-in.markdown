@@ -2,7 +2,7 @@
 layout: post
 title:  "The Editor Is In"
 subtitle:	"la serie TV dei personaggi Bonelli"
-date:   2016-10-05 01:00:05
+date:   2016-10-05 01:00:15
 last_modified_at:  2016-10-01 01:00:00
 author: "Martina Galea"
 categories: articoli

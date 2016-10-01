@@ -8,7 +8,6 @@ categories: articoli
 tags:  manga
 image:
   feature: 'numero000/creaturearcane.jpg'
-  leftPosition: -300px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

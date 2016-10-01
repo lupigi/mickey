@@ -10,7 +10,6 @@ tags:  lilith
 image:
   feature: 'numero000/lilith16.jpg'
   topPosition: -50px
-  leftPosition: -400px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

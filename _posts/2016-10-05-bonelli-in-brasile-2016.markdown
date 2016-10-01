@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I fumetti Bonelli in Brasile"
-date:   2016-10-05 01:00:06
+date:   2016-10-05 01:00:08
 last_modified_at:  2016-09-29 01:00:00
 author: "Julio Schneider e Marco Gremignai"
 categories: articoli

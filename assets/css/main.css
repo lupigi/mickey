@@ -2005,7 +2005,7 @@ body {
 
 .blockGroup-list li .postArticle-subtitle, {
   font-size: 0.5rem;
-  line-height: 1;
+  line-height: 0.5rem;
 }
 
 .blockGroup-list .postArticle-wrapper {

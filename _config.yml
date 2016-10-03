@@ -10,7 +10,7 @@ relative_permalinks: false
 timezone:            'Europe/Rome'
 locale:              'it_it'
 name:                'uBC Magazine'
-title:               'site title'
+title:               'uBC Magazine'
 tagline:             'tagline'
 description:         'description'
 url:                 'http://lupigi.github.io/ubcmagazine'
@@ -21,7 +21,7 @@ baseurl_featured_img: '/ubcmagazine/assets/images/hero/'
 baseurl_featured_thumbnail: '/ubcmagazine/assets/images/thumbnail/'
 baseurl_javascripts: '/ubcmagazine/assets/javascripts/'
 icon:                '/ubcmagazine/assets/img/icon.png' # [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+# disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 #author:
 #  name:           	 your name
